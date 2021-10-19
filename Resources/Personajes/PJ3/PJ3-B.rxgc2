@@ -1,0 +1,117 @@
+## -- Character save for the RPG Maker Extended Generator -- 
+## Manual modifications of this file can lead to crashes of the generator.
+RXGC2
+0.68a
+
+## Elements count
+10
+
+## Element data
+Male\Body\8d9374e6d9cc69d-211
+MV_Male_Body_p01
+## Offsets
+0
+## Colors
+3
+MV_Eyes
+-1
+MV_Skin
+-1
+MV_Undies
+-1
+
+## Element data
+Male\Face\8d9374e6da8ad7e-287
+MV_Male_Face_p03
+## Offsets
+0
+## Colors
+1
+MV_Skin
+-1
+
+## Element data
+Male\Ears\8d9374e6da1895d-237
+MV_Male_Ears_p01
+## Offsets
+0
+## Colors
+1
+MV_Skin
+-1
+
+## Element data
+Male\Eyes\8d9374e6da3eabe-258
+MV_Male_Eyes_p01
+## Offsets
+0
+## Colors
+1
+MV_Eyes
+-1
+
+## Element data
+Male\Eyebrows\8d9374e6da1895d-242
+MV_Male_Eyebrows_p04
+## Offsets
+0
+## Colors
+2
+MV_Hair1
+-1
+MV_Skin
+-1
+
+## Element data
+Male\Nose\8d9374e6dafd19f-342
+MV_Male_Nose_p01
+## Offsets
+0
+## Colors
+1
+MV_Skin
+-1
+
+## Element data
+Male\Mouth\8d9374e6dad703f-329
+MV_Male_Mouth_p03
+## Offsets
+0
+## Colors
+1
+MV_Skin
+-1
+
+## Element data
+Male\Clothing\8d9375274769403-481
+NI_Male_Clothing_p605
+## Offsets
+0
+## Colors
+3
+MV_Cloth1
+-1
+MV_Cloth2
+-1
+MV_Cloth3
+-1
+
+## Element data
+Male\Rear Hair\8d9374e6db232ff-355
+MV_Male_Rear Hair_p01
+## Offsets
+0
+## Colors
+1
+MV_Hair1
+-1
+
+## Element data
+Male\Beard\8d9374e6d9a653d-200
+MV_Male_Beard_p07
+## Offsets
+0
+## Colors
+1
+MV_Hair1
+-1

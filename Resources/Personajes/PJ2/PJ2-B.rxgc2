@@ -1,0 +1,101 @@
+## -- Character save for the RPG Maker Extended Generator -- 
+## Manual modifications of this file can lead to crashes of the generator.
+RXGC2
+0.68a
+
+## Elements count
+8
+
+## Element data
+Female\Body\8d9374e6d76b099-24
+MV_Female_Body_p01
+## Offsets
+0
+## Colors
+3
+MV_Eyes
+-1
+MV_Skin
+-1
+MV_Undies
+-1
+
+## Element data
+Female\Face\8d9374e6d82977a-87
+MV_Female_Face_p01
+## Offsets
+0
+## Colors
+1
+MV_Skin
+-1
+
+## Element data
+Female\Ears\8d9374e6d7dd4b9-55
+MV_Female_Ears_p01
+## Offsets
+0
+## Colors
+1
+MV_Skin
+-1
+
+## Element data
+Female\Eyes\8d9374e6d80361a-67
+MV_Female_Eyes_p01
+## Offsets
+0
+## Colors
+1
+MV_Eyes
+-1
+
+## Element data
+Female\Eyebrows\8d9374e6d7dd4b9-57
+MV_Female_Eyebrows_p01
+## Offsets
+0
+## Colors
+2
+MV_Hair1
+-1
+MV_Skin
+-1
+
+## Element data
+Female\Nose\8d9374e6d875a3a-135
+MV_Female_Nose_p01
+## Offsets
+0
+## Colors
+1
+MV_Skin
+-1
+
+## Element data
+Female\Mouth\8d9374e6d84f8da-122
+MV_Female_Mouth_p01
+## Offsets
+0
+## Colors
+1
+MV_Skin
+-1
+
+## Element data
+Female\Clothing\8d93752746f6fe2-430
+NI_Female_Clothing_p628
+## Offsets
+0
+## Colors
+5
+MV_Cloth1
+-1
+MV_Cloth2
+-1
+MV_Cloth3
+-1
+MV_Cloth4
+-1
+MV_Undies
+-1
