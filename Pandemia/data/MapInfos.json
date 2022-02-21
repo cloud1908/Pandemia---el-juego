@@ -1,9 +1,0 @@
-[
-null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":363,"scrollY":3730},
-{"id":2,"expanded":true,"name":"MAP002","order":2,"parentId":0,"scrollX":816,"scrollY":800},
-{"id":3,"expanded":false,"name":"MAP003","order":3,"parentId":2,"scrollX":2258,"scrollY":2553},
-{"id":4,"expanded":true,"name":"MAP004","order":4,"parentId":0,"scrollX":3199,"scrollY":9057},
-null,
-{"id":6,"expanded":false,"name":"Entrada Test","order":5,"parentId":0,"scrollX":1272,"scrollY":1062.857142857143}
-]
