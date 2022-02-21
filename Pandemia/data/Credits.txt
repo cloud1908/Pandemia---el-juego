@@ -1,0 +1,84 @@
+Text that appears outside of the block tags
+will not display in the credits scene
+
+<block:-1,-1,10,10,offbot,center,Credits>
+CREDITOS
+
+\c[2]Programadores de Plugins:
+Dan "Liquidize" Deptula
+
+Galv
+
+RM CoreScript team
+
+Yoji Ojima
+
+Yanfly
+
+
+
+\c[1]Imagenes y tilesets:
+Avery
+
+Aweryn
+
+Kadokawa
+
+Kuro Neko
+
+Hiddenone
+
+Weakfoggy
+
+Watshy (pinterest.cl/caio_watshy)
+
+Whtdragon
+
+Personajes:
+Bokou
+
+Chara_mob
+
+FuzzyDemon
+
+Gordon Ramsey
+
+HiddenOne
+
+Hiroita
+
+IceKun
+
+Kadokawa
+
+Mon
+
+Schlangan (RPG Maker Extended Generator)
+
+Yunary
+
+Enemigos:
+Avery
+
+Musica:
+JDB Artist (JDB Nightmares)
+
+</block>
+
+<block:-1,0,10,10,100,right>
+más líneas alineadas a la derecha
+segundo bloque
+</block>
+
+<block:-1,0,10,10,100,left,Credits>
+más lineas
+tercer bloque
+más texto aquí, por lo que este debería durar más que el anterior
+porque usa la configuración 'auto' (-1)
+
+No hay un ajuste de palabras en este complemento.
+</block>
+
+<block:999,0,10,10,300,center,Credits>
+FIN
+</block>
