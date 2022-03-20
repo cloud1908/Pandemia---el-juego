@@ -1,0 +1,3 @@
+
+
+The generator doesn't change the body piece, so to have the correct neck and shoulders for the beastmen faces you have to remove the human piece (named 'FG_Body_p01_c1_m001') and put in the one you want.
