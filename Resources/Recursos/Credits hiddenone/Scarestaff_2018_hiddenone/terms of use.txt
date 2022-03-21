@@ -1,0 +1,11 @@
+Name: hiddenone
+
+Terms of Use: Free to use in commercial and noncommercial games as long as credit is given to hiddenone and Kadokawa.  Please contact me before reposting or sharing edits.
+
+Contact Info: PM hiddenone
+
+Details: Behaviors sprites for laughing statues and zombies.  Make sure to have the Stepping and Direction Fix options checked when using them!
+
+Also have some skeletal horse SV battlers inspired by Avery's horse!  Sandwich a human battler between the base and overlay pieces of the skeletal horse to make a mounted battler.
+
+For a detailed explanation on how to put a character on the horse, please check out Avery's post: https://forums.rpgmakerweb.com/index.php?threads/avys-mv-stuff.53317/page-53#post-889472
