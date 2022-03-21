@@ -1,0 +1,1 @@
+﻿These walls are intended to be pasted over other tilesets to make them seem like they are composed of data, but they can be used alone. Pasting them over a black background might make them look better if you intend to use them alone.
