@@ -1,0 +1,38 @@
+Text that appears outside of the block tags
+will not display in the credits scene
+
+<block:-1,-1,10,10,offbot,center,Island>
+CREDITS
+
+\c[2]Engine
+Degica
+RPG Maker MV
+
+\c[2]Plugin Programmer
+Galv
+
+\c[2]Artwork
+Degica
+RPG Maker MV
+
+\c[2]Thanks
+All my supporters
+</block>
+
+<block:-1,0,10,10,100,right>
+more lines aligned to the right
+second block
+</block>
+
+<block:-1,0,10,10,100,left,Plain>
+more lines
+third block
+more text here so this one should last longer than the last one
+because it uses the 'auto' setting (-1)
+
+There is no word wrapping in this plugin.
+</block>
+
+<block:999,0,10,10,300,center,Tower1>
+THE END
+</block>
